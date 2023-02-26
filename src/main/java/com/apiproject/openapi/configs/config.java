@@ -56,7 +56,7 @@ public class config implements WebMvcConfigurer {
         return new ApiInfoBuilder()
             .title("AudioItem spring boot api with swagger documentation")
             .description("This swagger documentation is for our spring boot api that is hosted on oracle cloud instance.")
-            .contact(new Contact("Sahil Santosh Bhagat - 40216558", null, "s.sahil2322@gmail.com"))
+            .contact(new Contact("Sahil Santosh Bhagat - 40216558, Adnaan khan - 40185329", null, "s.sahil2322@gmail.com, adnaankhan0901@gmail.com"))
             .version("1.0")
             .build();
     }

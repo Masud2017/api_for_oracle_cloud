@@ -55,7 +55,7 @@ public class AudioResourceController {
     }
 
     @ApiImplicitParams({
-        @ApiImplicitParam(name = "developer", value = "Parth Narang - 40217004", dataType = "string", 
+        @ApiImplicitParam(name = "developer", value = "Adnaan khan 40185329", dataType = "string", 
                           paramType = "header")
     })
     
@@ -70,7 +70,7 @@ public class AudioResourceController {
     }
 
     @ApiImplicitParams({
-        @ApiImplicitParam(name = "developer", value = "Parth Narang - 40217004", dataType = "string", 
+        @ApiImplicitParam(name = "developer", value = "Adnaan khan 40185329", dataType = "string", 
                         paramType = "header")
     })
     @GetMapping(value= "/totalCopiesSold")
